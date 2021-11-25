@@ -5,10 +5,13 @@
 
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Ahmed, SoftwareEngineer As Front End  from Egypt</b>.</p>
+  I'm Ahmed Said Software Engineer As Front End  from Egypt</b>.</p>
   	
   💡 &nbsp;I like to explore new trends and learn new technologies.\
-  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>, <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
+  🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>,<a style="color:#764ABC" href="https://graphql.org/" target="_blank"><u>
+  GraphQL</u></a>,<a style="color:#764ABC" href="https://react-query.tanstack.com/" target="_blank"><u>React-Query</u></a>,
+  <a style="color:#764ABC" href="https://auth0.com/" target="_blank"><u>Auth0</a>,
+  <a style="color:#764ABC" href="https://www.typescriptlang.org/" target="_blank"><u>TypeScript</u></a> and <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>.\
   💬 &nbsp;Feel free to reach out to me for consulting, volunteering or just for some interesting discussion.
 </p>
 <br>

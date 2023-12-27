@@ -7,7 +7,7 @@
   <p>Hey there, welcome!</br>
   I'm Ahmed Muhammed Elsaid, A Software Engineer As Frontend  from Egypt</b>.</p>
   	
-  💡 &nbsp;I like to explore new trends and learn new technologies.\
+  💡 &nbsp; I like to explore new trends and learn new technologies.\
   🌱 &nbsp;I'm on track for learning more about <a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>,<a style="color:#45b8d8" href="https://reactnative.dev/" target="_blank"><u>React Native</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>,<a style="color:#764ABC" href="https://graphql.org/" target="_blank"><u>
   GraphQL</u></a>,<a style="color:#764ABC" href="https://react-query.tanstack.com/" target="_blank"><u>React-Query</u></a>,
   <a style="color:#764ABC" href="https://auth0.com/" target="_blank"><u>Auth0</a>,
@@ -21,9 +21,8 @@
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-F7DF1E?style=flat-square&logo=typescript&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=next&logoColor=white" />
+  <img alt="Nextjs" src="https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=nextjs&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="React-Query" src="https://img.shields.io/badge/-React-Query-E33332?style=flat-square&logo=react&logoColor=white" />
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-CA4245?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="Auth0" src="https://img.shields.io/badge/-Auth0-EB5424?style=flat-square&logo=auth0l&logoColor=white" />
@@ -38,7 +37,7 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
   <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-  <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-FF6C37?style=flat-square&logo=gitlab&logoColor=black" />
+  <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-000000?style=flat-square&logo=gitlab&logoColor=FF6C37" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="Npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-45b8d8?style=flat-square&logo=yarn&logoColor=white" />

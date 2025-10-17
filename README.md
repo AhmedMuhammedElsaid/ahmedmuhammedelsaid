@@ -16,7 +16,7 @@
 </p>
 <br>
 
-<h2>👨🏻‍💻 &nbsp; Tools I code with.</h2>
+<h2>👨🏻‍💻 &nbsp; Tools I code with</h2>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="Typescript" src="https://img.shields.io/badge/-TypeScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black" />

@@ -49,7 +49,7 @@
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=Markdown&logoColor=white" />
 </p>
 
-<h2>🌎 &nbsp;Where to find me</h2>
+<h2>🌎 &nbsp;Where to find me.</h2>
 <p>
   <a href="https://ahmed-muhammed-elsaid.netlify.app/" target="_blank"><img alt="Codepen" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=portoflio&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahmedmuhammedelsaid/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>

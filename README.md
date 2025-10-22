@@ -5,7 +5,7 @@
 
 <p aligh="left">
   <p>Hey there, welcome!</br>
-  I'm Ahmed Muhammed Elsaid, A Senior Frontend Engineer from Cairo, Egypt </b>.</p>
+  I'm Ahmed Muhammed Elsaid, A Senior Frontend Engineer from Cairo, Egypt </b>. </p>
   	
   💡 &nbsp; I like to explore new trends and learn new technologies.\
   🌱 &nbsp;I'm on track for learning more about  <a style="color:#000000" href="https://nextjs.org/" target="_blank"><u>NextJS</u></a>,<a style="color:#45b8d8" href="https://reactjs.org/" target="_blank"><u>React</u></a>,<a style="color:#45b8d8" href="https://reactnative.dev/" target="_blank"><u>React Native</u></a>, <a style="color:#764ABC" href="https://redux.js.org/" target="_blank"><u>Redux</u></a>,<a style="color:#764ABC" href="https://graphql.org/" target="_blank"><u>

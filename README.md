@@ -4,7 +4,7 @@
 <br>
 
 <p aligh="left">
-  <p>Hey there, welcome! </br>
+  <p>Hey there, welcome!</br>
   I'm Ahmed Muhammed Elsaid, A Senior Frontend Engineer from Cairo, Egypt. </b>. </p>
   	
   💡 &nbsp; I like to explore new trends and learn new technologies.\
